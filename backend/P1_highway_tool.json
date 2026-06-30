@@ -1,0 +1,2078 @@
+[
+  {
+    "time_sec": 0.0673,
+    "note": 36,
+    "component": "kick",
+    "velocity": 42
+  },
+  {
+    "time_sec": 0.0962,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 77
+  },
+  {
+    "time_sec": 0.3558,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 0.6298,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 87
+  },
+  {
+    "time_sec": 0.649,
+    "note": 38,
+    "component": "snare",
+    "velocity": 78
+  },
+  {
+    "time_sec": 0.8894,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 1.1779,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 102
+  },
+  {
+    "time_sec": 1.1875,
+    "note": 36,
+    "component": "kick",
+    "velocity": 39
+  },
+  {
+    "time_sec": 1.4375,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 74
+  },
+  {
+    "time_sec": 1.7163,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 105
+  },
+  {
+    "time_sec": 1.7404,
+    "note": 38,
+    "component": "snare",
+    "velocity": 84
+  },
+  {
+    "time_sec": 1.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 2.2452,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 108
+  },
+  {
+    "time_sec": 2.2452,
+    "note": 36,
+    "component": "kick",
+    "velocity": 34
+  },
+  {
+    "time_sec": 2.5,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 2.7692,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 2.7885,
+    "note": 38,
+    "component": "snare",
+    "velocity": 72
+  },
+  {
+    "time_sec": 3.0288,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 3.2692,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 3.2981,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 95
+  },
+  {
+    "time_sec": 3.5385,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 69
+  },
+  {
+    "time_sec": 3.8077,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 89
+  },
+  {
+    "time_sec": 3.8269,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 4.0673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 4.3365,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 4.4375,
+    "note": 36,
+    "component": "kick",
+    "velocity": 28
+  },
+  {
+    "time_sec": 4.6058,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 25
+  },
+  {
+    "time_sec": 4.875,
+    "note": 38,
+    "component": "snare",
+    "velocity": 78
+  },
+  {
+    "time_sec": 4.9086,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 5.1346,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 66
+  },
+  {
+    "time_sec": 5.399,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 98
+  },
+  {
+    "time_sec": 5.4519,
+    "note": 36,
+    "component": "kick",
+    "velocity": 40
+  },
+  {
+    "time_sec": 5.6442,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 5.9375,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 5.9471,
+    "note": 38,
+    "component": "snare",
+    "velocity": 62
+  },
+  {
+    "time_sec": 5.9567,
+    "note": 36,
+    "component": "kick",
+    "velocity": 18
+  },
+  {
+    "time_sec": 6.2067,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 6.4471,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 6.4567,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 96
+  },
+  {
+    "time_sec": 6.6875,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 6.9663,
+    "note": 38,
+    "component": "snare",
+    "velocity": 80
+  },
+  {
+    "time_sec": 6.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 79
+  },
+  {
+    "time_sec": 7.2067,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 7.4279,
+    "note": 36,
+    "component": "kick",
+    "velocity": 31
+  },
+  {
+    "time_sec": 7.4567,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 93
+  },
+  {
+    "time_sec": 7.6875,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 7.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 7.976,
+    "note": 36,
+    "component": "kick",
+    "velocity": 27
+  },
+  {
+    "time_sec": 7.9856,
+    "note": 38,
+    "component": "snare",
+    "velocity": 67
+  },
+  {
+    "time_sec": 8.25,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 65
+  },
+  {
+    "time_sec": 8.4952,
+    "note": 36,
+    "component": "kick",
+    "velocity": 35
+  },
+  {
+    "time_sec": 8.5192,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 101
+  },
+  {
+    "time_sec": 8.7692,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 9.0385,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 71
+  },
+  {
+    "time_sec": 9.0577,
+    "note": 38,
+    "component": "snare",
+    "velocity": 72
+  },
+  {
+    "time_sec": 9.3077,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 71
+  },
+  {
+    "time_sec": 9.5192,
+    "note": 36,
+    "component": "kick",
+    "velocity": 30
+  },
+  {
+    "time_sec": 9.5769,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 9.8269,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 60
+  },
+  {
+    "time_sec": 10.0961,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 90
+  },
+  {
+    "time_sec": 10.0961,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 10.3558,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 58
+  },
+  {
+    "time_sec": 10.5961,
+    "note": 36,
+    "component": "kick",
+    "velocity": 35
+  },
+  {
+    "time_sec": 10.6202,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 10.8461,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 65
+  },
+  {
+    "time_sec": 11.1058,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 11.149,
+    "note": 38,
+    "component": "snare",
+    "velocity": 63
+  },
+  {
+    "time_sec": 11.3846,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 11.6538,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 91
+  },
+  {
+    "time_sec": 11.6683,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 11.899,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 12.1875,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 82
+  },
+  {
+    "time_sec": 12.1875,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 12.4471,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 58
+  },
+  {
+    "time_sec": 12.6586,
+    "note": 36,
+    "component": "kick",
+    "velocity": 33
+  },
+  {
+    "time_sec": 12.6971,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 12.9375,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 13.2163,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 13.2259,
+    "note": 38,
+    "component": "snare",
+    "velocity": 76
+  },
+  {
+    "time_sec": 13.4952,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 13.7356,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 13.7452,
+    "note": 36,
+    "component": "kick",
+    "velocity": 38
+  },
+  {
+    "time_sec": 13.9952,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 14.274,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 14.2981,
+    "note": 38,
+    "component": "snare",
+    "velocity": 78
+  },
+  {
+    "time_sec": 14.524,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 14.7692,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 14.7981,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 99
+  },
+  {
+    "time_sec": 15.0673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 58
+  },
+  {
+    "time_sec": 15.3269,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 79
+  },
+  {
+    "time_sec": 15.3365,
+    "note": 38,
+    "component": "snare",
+    "velocity": 77
+  },
+  {
+    "time_sec": 15.5673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 15.7644,
+    "note": 36,
+    "component": "kick",
+    "velocity": 34
+  },
+  {
+    "time_sec": 15.8269,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 92
+  },
+  {
+    "time_sec": 16.0577,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 16.3269,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 16.3461,
+    "note": 38,
+    "component": "snare",
+    "velocity": 80
+  },
+  {
+    "time_sec": 16.5769,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 69
+  },
+  {
+    "time_sec": 16.8173,
+    "note": 36,
+    "component": "kick",
+    "velocity": 35
+  },
+  {
+    "time_sec": 16.8558,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 95
+  },
+  {
+    "time_sec": 17.1154,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 17.4038,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 90
+  },
+  {
+    "time_sec": 17.4279,
+    "note": 38,
+    "component": "snare",
+    "velocity": 64
+  },
+  {
+    "time_sec": 17.6586,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 17.875,
+    "note": 36,
+    "component": "kick",
+    "velocity": 33
+  },
+  {
+    "time_sec": 17.9183,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 18.1683,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 56
+  },
+  {
+    "time_sec": 18.4375,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 87
+  },
+  {
+    "time_sec": 18.4471,
+    "note": 38,
+    "component": "snare",
+    "velocity": 72
+  },
+  {
+    "time_sec": 18.6971,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 18.8654,
+    "note": 36,
+    "component": "kick",
+    "velocity": 34
+  },
+  {
+    "time_sec": 18.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 94
+  },
+  {
+    "time_sec": 19.2356,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 44
+  },
+  {
+    "time_sec": 19.5,
+    "note": 38,
+    "component": "snare",
+    "velocity": 74
+  },
+  {
+    "time_sec": 19.5144,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 82
+  },
+  {
+    "time_sec": 19.7548,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 19.9952,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 20.0144,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 93
+  },
+  {
+    "time_sec": 20.274,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 71
+  },
+  {
+    "time_sec": 20.5481,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 82
+  },
+  {
+    "time_sec": 20.5577,
+    "note": 38,
+    "component": "snare",
+    "velocity": 70
+  },
+  {
+    "time_sec": 20.7981,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 21.0384,
+    "note": 36,
+    "component": "kick",
+    "velocity": 31
+  },
+  {
+    "time_sec": 21.0577,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 92
+  },
+  {
+    "time_sec": 21.2981,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 21.5673,
+    "note": 38,
+    "component": "snare",
+    "velocity": 80
+  },
+  {
+    "time_sec": 21.8173,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 22.0673,
+    "note": 36,
+    "component": "kick",
+    "velocity": 20
+  },
+  {
+    "time_sec": 22.1057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 92
+  },
+  {
+    "time_sec": 22.3365,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 66
+  },
+  {
+    "time_sec": 22.6154,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 83
+  },
+  {
+    "time_sec": 22.625,
+    "note": 38,
+    "component": "snare",
+    "velocity": 79
+  },
+  {
+    "time_sec": 22.8702,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 23.1057,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 23.149,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 107
+  },
+  {
+    "time_sec": 23.3846,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 80
+  },
+  {
+    "time_sec": 23.6586,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 23.6779,
+    "note": 38,
+    "component": "snare",
+    "velocity": 63
+  },
+  {
+    "time_sec": 23.9086,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 24.1971,
+    "note": 36,
+    "component": "kick",
+    "velocity": 35
+  },
+  {
+    "time_sec": 24.2067,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 96
+  },
+  {
+    "time_sec": 24.4567,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 24.7259,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 79
+  },
+  {
+    "time_sec": 24.7548,
+    "note": 38,
+    "component": "snare",
+    "velocity": 56
+  },
+  {
+    "time_sec": 24.9856,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 25.2452,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 86
+  },
+  {
+    "time_sec": 25.2452,
+    "note": 36,
+    "component": "kick",
+    "velocity": 38
+  },
+  {
+    "time_sec": 25.4759,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 55
+  },
+  {
+    "time_sec": 25.7452,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 83
+  },
+  {
+    "time_sec": 25.7692,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 25.9904,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 63
+  },
+  {
+    "time_sec": 26.2692,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 26.2884,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 93
+  },
+  {
+    "time_sec": 26.5192,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 55
+  },
+  {
+    "time_sec": 26.8077,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 26.8077,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 77
+  },
+  {
+    "time_sec": 27.0577,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 27.2884,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 27.3173,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 79
+  },
+  {
+    "time_sec": 27.548,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 56
+  },
+  {
+    "time_sec": 27.8173,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 69
+  },
+  {
+    "time_sec": 27.8461,
+    "note": 38,
+    "component": "snare",
+    "velocity": 68
+  },
+  {
+    "time_sec": 28.0769,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 58
+  },
+  {
+    "time_sec": 28.3365,
+    "note": 36,
+    "component": "kick",
+    "velocity": 38
+  },
+  {
+    "time_sec": 28.3461,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 87
+  },
+  {
+    "time_sec": 28.5865,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 57
+  },
+  {
+    "time_sec": 28.8702,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 78
+  },
+  {
+    "time_sec": 28.8798,
+    "note": 38,
+    "component": "snare",
+    "velocity": 71
+  },
+  {
+    "time_sec": 29.1057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 57
+  },
+  {
+    "time_sec": 29.3365,
+    "note": 36,
+    "component": "kick",
+    "velocity": 39
+  },
+  {
+    "time_sec": 29.3702,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 29.6057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 60
+  },
+  {
+    "time_sec": 29.8894,
+    "note": 38,
+    "component": "snare",
+    "velocity": 70
+  },
+  {
+    "time_sec": 29.899,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 74
+  },
+  {
+    "time_sec": 30.1394,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 30.399,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 30.4038,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 78
+  },
+  {
+    "time_sec": 30.6779,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 60
+  },
+  {
+    "time_sec": 30.9182,
+    "note": 38,
+    "component": "snare",
+    "velocity": 74
+  },
+  {
+    "time_sec": 30.9471,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 31.1971,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 66
+  },
+  {
+    "time_sec": 31.4375,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 31.4663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 91
+  },
+  {
+    "time_sec": 31.6971,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 31.9855,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 31.9904,
+    "note": 38,
+    "component": "snare",
+    "velocity": 71
+  },
+  {
+    "time_sec": 32.25,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 32.4952,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 32.5096,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 86
+  },
+  {
+    "time_sec": 32.7596,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 57
+  },
+  {
+    "time_sec": 33.0192,
+    "note": 38,
+    "component": "snare",
+    "velocity": 72
+  },
+  {
+    "time_sec": 33.0192,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 33.2692,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 66
+  },
+  {
+    "time_sec": 33.5096,
+    "note": 36,
+    "component": "kick",
+    "velocity": 39
+  },
+  {
+    "time_sec": 33.5384,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 33.75,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 57
+  },
+  {
+    "time_sec": 34.0384,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 63
+  },
+  {
+    "time_sec": 34.0384,
+    "note": 38,
+    "component": "snare",
+    "velocity": 61
+  },
+  {
+    "time_sec": 34.274,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 55
+  },
+  {
+    "time_sec": 34.5577,
+    "note": 36,
+    "component": "kick",
+    "velocity": 34
+  },
+  {
+    "time_sec": 34.5673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 82
+  },
+  {
+    "time_sec": 34.798,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 35.1202,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 35.1586,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 35.4182,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 35.6875,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 35.7067,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 35.9471,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 36.1778,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 36.1971,
+    "note": 38,
+    "component": "snare",
+    "velocity": 60
+  },
+  {
+    "time_sec": 36.4086,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 36.649,
+    "note": 36,
+    "component": "kick",
+    "velocity": 35
+  },
+  {
+    "time_sec": 36.6682,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 36.8846,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 61
+  },
+  {
+    "time_sec": 37.1778,
+    "note": 38,
+    "component": "snare",
+    "velocity": 71
+  },
+  {
+    "time_sec": 37.1875,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 37.4182,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 63
+  },
+  {
+    "time_sec": 37.6971,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 37.6971,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 37.9182,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 38.2163,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 72
+  },
+  {
+    "time_sec": 38.2259,
+    "note": 38,
+    "component": "snare",
+    "velocity": 79
+  },
+  {
+    "time_sec": 38.4855,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 46
+  },
+  {
+    "time_sec": 38.7163,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 38.7548,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 38.9567,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 57
+  },
+  {
+    "time_sec": 39.2452,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 68
+  },
+  {
+    "time_sec": 39.2548,
+    "note": 38,
+    "component": "snare",
+    "velocity": 80
+  },
+  {
+    "time_sec": 39.4952,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 62
+  },
+  {
+    "time_sec": 39.7596,
+    "note": 36,
+    "component": "kick",
+    "velocity": 33
+  },
+  {
+    "time_sec": 39.7884,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 30
+  },
+  {
+    "time_sec": 39.899,
+    "note": 49,
+    "component": "unknown",
+    "velocity": 30
+  },
+  {
+    "time_sec": 40.048,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 33
+  },
+  {
+    "time_sec": 40.2548,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 24
+  },
+  {
+    "time_sec": 40.2788,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 102
+  },
+  {
+    "time_sec": 40.5,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 26
+  },
+  {
+    "time_sec": 40.5288,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 68
+  },
+  {
+    "time_sec": 40.7884,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 63
+  },
+  {
+    "time_sec": 41.0096,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 28
+  },
+  {
+    "time_sec": 41.0192,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 52
+  },
+  {
+    "time_sec": 41.2692,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 49
+  },
+  {
+    "time_sec": 41.2692,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 43
+  },
+  {
+    "time_sec": 41.5144,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 41.5384,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 27
+  },
+  {
+    "time_sec": 41.7788,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 33
+  },
+  {
+    "time_sec": 41.7788,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 75
+  },
+  {
+    "time_sec": 42.0384,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 46
+  },
+  {
+    "time_sec": 42.0384,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 42.3077,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 42.3077,
+    "note": 59,
+    "component": "unknown",
+    "velocity": 35
+  },
+  {
+    "time_sec": 42.5673,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 45
+  },
+  {
+    "time_sec": 42.5673,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 80
+  },
+  {
+    "time_sec": 42.8173,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 43
+  },
+  {
+    "time_sec": 42.8173,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 65
+  },
+  {
+    "time_sec": 43.0769,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 21
+  },
+  {
+    "time_sec": 43.0865,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 60
+  },
+  {
+    "time_sec": 43.1778,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 29
+  },
+  {
+    "time_sec": 43.3557,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 44
+  },
+  {
+    "time_sec": 43.8269,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 104
+  },
+  {
+    "time_sec": 43.9759,
+    "note": 36,
+    "component": "kick",
+    "velocity": 33
+  },
+  {
+    "time_sec": 44.0673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 66
+  },
+  {
+    "time_sec": 44.3461,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 99
+  },
+  {
+    "time_sec": 44.3653,
+    "note": 38,
+    "component": "snare",
+    "velocity": 84
+  },
+  {
+    "time_sec": 44.625,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 90
+  },
+  {
+    "time_sec": 44.8653,
+    "note": 36,
+    "component": "kick",
+    "velocity": 38
+  },
+  {
+    "time_sec": 44.899,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 109
+  },
+  {
+    "time_sec": 45.1298,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 84
+  },
+  {
+    "time_sec": 45.3942,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 96
+  },
+  {
+    "time_sec": 45.4086,
+    "note": 38,
+    "component": "snare",
+    "velocity": 66
+  },
+  {
+    "time_sec": 45.6586,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 90
+  },
+  {
+    "time_sec": 45.8798,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 45.9182,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 96
+  },
+  {
+    "time_sec": 46.1586,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 78
+  },
+  {
+    "time_sec": 46.4182,
+    "note": 38,
+    "component": "snare",
+    "velocity": 65
+  },
+  {
+    "time_sec": 46.4375,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 95
+  },
+  {
+    "time_sec": 47.0288,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 33
+  },
+  {
+    "time_sec": 47.1682,
+    "note": 49,
+    "component": "unknown",
+    "velocity": 17
+  },
+  {
+    "time_sec": 47.2596,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 83
+  },
+  {
+    "time_sec": 47.4375,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 38
+  },
+  {
+    "time_sec": 47.5048,
+    "note": 26,
+    "component": "unknown",
+    "velocity": 90
+  },
+  {
+    "time_sec": 48.048,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 86
+  },
+  {
+    "time_sec": 48.048,
+    "note": 36,
+    "component": "kick",
+    "velocity": 30
+  },
+  {
+    "time_sec": 48.3076,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 70
+  },
+  {
+    "time_sec": 48.5576,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 48.5673,
+    "note": 38,
+    "component": "snare",
+    "velocity": 71
+  },
+  {
+    "time_sec": 48.798,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 67
+  },
+  {
+    "time_sec": 49.125,
+    "note": 36,
+    "component": "kick",
+    "velocity": 30
+  },
+  {
+    "time_sec": 49.1298,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 93
+  },
+  {
+    "time_sec": 49.3701,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 59
+  },
+  {
+    "time_sec": 49.6153,
+    "note": 38,
+    "component": "snare",
+    "velocity": 63
+  },
+  {
+    "time_sec": 49.6153,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 49.8557,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 60
+  },
+  {
+    "time_sec": 50.0576,
+    "note": 36,
+    "component": "kick",
+    "velocity": 34
+  },
+  {
+    "time_sec": 50.1057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 78
+  },
+  {
+    "time_sec": 50.3365,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 62
+  },
+  {
+    "time_sec": 50.5865,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 71
+  },
+  {
+    "time_sec": 50.7836,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 50.9999,
+    "note": 36,
+    "component": "kick",
+    "velocity": 29
+  },
+  {
+    "time_sec": 51.0576,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 83
+  },
+  {
+    "time_sec": 51.0673,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 29
+  },
+  {
+    "time_sec": 51.5769,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 80
+  },
+  {
+    "time_sec": 52.0673,
+    "note": 36,
+    "component": "kick",
+    "velocity": 30
+  },
+  {
+    "time_sec": 52.1057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 107
+  },
+  {
+    "time_sec": 52.149,
+    "note": 36,
+    "component": "kick",
+    "velocity": 9
+  },
+  {
+    "time_sec": 52.3173,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 51
+  },
+  {
+    "time_sec": 52.5961,
+    "note": 36,
+    "component": "kick",
+    "velocity": 37
+  },
+  {
+    "time_sec": 52.6057,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 52.6201,
+    "note": 40,
+    "component": "unknown",
+    "velocity": 81
+  },
+  {
+    "time_sec": 52.6778,
+    "note": 36,
+    "component": "kick",
+    "velocity": 11
+  },
+  {
+    "time_sec": 52.8461,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 73
+  },
+  {
+    "time_sec": 53.1394,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 92
+  },
+  {
+    "time_sec": 53.1778,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 53.3749,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 58
+  },
+  {
+    "time_sec": 53.6874,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 63
+  },
+  {
+    "time_sec": 53.6971,
+    "note": 36,
+    "component": "kick",
+    "velocity": 38
+  },
+  {
+    "time_sec": 53.7067,
+    "note": 38,
+    "component": "snare",
+    "velocity": 90
+  },
+  {
+    "time_sec": 53.7788,
+    "note": 36,
+    "component": "kick",
+    "velocity": 10
+  },
+  {
+    "time_sec": 53.9278,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 51
+  },
+  {
+    "time_sec": 54.2067,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 54.2115,
+    "note": 36,
+    "component": "kick",
+    "velocity": 27
+  },
+  {
+    "time_sec": 54.4374,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 65
+  },
+  {
+    "time_sec": 54.7163,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 86
+  },
+  {
+    "time_sec": 54.7259,
+    "note": 36,
+    "component": "kick",
+    "velocity": 33
+  },
+  {
+    "time_sec": 54.7259,
+    "note": 40,
+    "component": "unknown",
+    "velocity": 89
+  },
+  {
+    "time_sec": 55.2163,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 62
+  },
+  {
+    "time_sec": 55.7259,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 77
+  },
+  {
+    "time_sec": 56.1682,
+    "note": 36,
+    "component": "kick",
+    "velocity": 36
+  },
+  {
+    "time_sec": 56.1778,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 127
+  },
+  {
+    "time_sec": 56.4567,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 82
+  },
+  {
+    "time_sec": 56.7067,
+    "note": 40,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 56.7259,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 88
+  },
+  {
+    "time_sec": 56.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 64
+  },
+  {
+    "time_sec": 57.1971,
+    "note": 36,
+    "component": "kick",
+    "velocity": 40
+  },
+  {
+    "time_sec": 57.2355,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 95
+  },
+  {
+    "time_sec": 57.4759,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 69
+  },
+  {
+    "time_sec": 57.7355,
+    "note": 38,
+    "component": "snare",
+    "velocity": 63
+  },
+  {
+    "time_sec": 57.7596,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 76
+  },
+  {
+    "time_sec": 57.9663,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 83
+  },
+  {
+    "time_sec": 58.274,
+    "note": 36,
+    "component": "kick",
+    "velocity": 29
+  },
+  {
+    "time_sec": 58.3365,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 38
+  },
+  {
+    "time_sec": 58.6153,
+    "note": 49,
+    "component": "unknown",
+    "velocity": 17
+  },
+  {
+    "time_sec": 59.4374,
+    "note": 49,
+    "component": "unknown",
+    "velocity": 13
+  },
+  {
+    "time_sec": 60.4086,
+    "note": 46,
+    "component": "unknown",
+    "velocity": 34
+  },
+  {
+    "time_sec": 60.4903,
+    "note": 55,
+    "component": "unknown",
+    "velocity": 27
+  },
+  {
+    "time_sec": 60.9999,
+    "note": 51,
+    "component": "unknown",
+    "velocity": 62
+  },
+  {
+    "time_sec": 62.4759,
+    "note": 42,
+    "component": "hi_hat",
+    "velocity": 53
+  }
+]

@@ -1,0 +1,1256 @@
+{
+  "song": "Highway to Hell",
+  "artist": "AC/DC",
+  "bpm": 116,
+  "time_signature": "4/4",
+  "subdivision": "eighth",
+  "profile_type": "manual_ground_truth",
+  "start_offset": 0,
+  "audio_alignment": {
+    "first_event_time_seconds": 0,
+    "first_event_bar": 1,
+    "first_event_beat": 1.0
+  },
+  "events": [
+    {
+      "bar": 1,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 1,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 2,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 3,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 4,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 5,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 6,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 7,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 8,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 9,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 10,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 11,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 12,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 13,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 14,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 15,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 16,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 17,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 18,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 19,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 20,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 21,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 22,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 23,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 24,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 25,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 26,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 27,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 28,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 1.0,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 29,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 1,
+      "components": ["kick","hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 1.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 2,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 2.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 3,
+      "components": ["kick", "hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 3.5,
+      "components": ["hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 4,
+      "components": ["snare","hi_hat"]
+    },
+    {
+      "bar": 30,
+      "beat": 4.5,
+      "components": ["hi_hat"]
+    }    
+  ]
+}
